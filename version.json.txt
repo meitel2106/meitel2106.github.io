@@ -1,0 +1,5 @@
+{
+  "latestVersionCode": 95,
+  "latestVersionName": "25.2",
+  "downloadUrl": "https://aptoide.com/xxx/NinjaCamAIPro"
+}
