@@ -1,5 +1,0 @@
-{
-  "latestVersionCode": 1002,
-  "latestVersionName": "1.0",
-  "https://meitel.gumroad.com/l/ninjacamai-pro"
-}
